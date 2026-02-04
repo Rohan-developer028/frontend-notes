@@ -72,6 +72,4 @@ This will create a production-ready build in the build folder.
 
 ---
 
-If you want, I can **also write the backend README** in the **same plain-text, step-wise style**, including commands and MONGO_URL setup for Node.js + MongoDB, so both repos match perfectly.
 
-Do you want me to do that?
